@@ -2,7 +2,7 @@
 
 ![AI Portfolio Banner](https://via.placeholder.com/1200x300?text=AI+Portfolio+Hub)  <!-- Replace with actual banner if available -->
 
-Welcome to my AI Portfolio Hub! I'm Michael Parkin, a front-end developer transitioning into an AI Engineer / AI-enhanced developer through a structured 26-week project-based learning roadmap. This repository serves as the central hub for my AI projects, showcasing my growing expertise in Python, data analysis, machine learning, and full-stack AI applications. Each project is a hands-on demonstration of real-world skills, built to solve practical problems and contribute to my professional portfolio.
+Welcome to my AI Portfolio Hub! I'm Michael Parkin, a front-end developer transitioning into an AI Engineer / AI-enhanced developer through a structured project-based learning roadmap. This repository serves as the central hub for my AI projects, showcasing my growing expertise in Python, data analysis, machine learning, and full-stack AI applications. Each project is a hands-on demonstration of real-world skills, built to solve practical problems and contribute to my professional portfolio.
 
 Inspired by best practices for developer portfolios in 2025, this README highlights my journey, key projects, and technical growth. Feel free to explore the linked repos, star if you find them useful, or reach out for collaborations!
 
@@ -21,7 +21,7 @@ Through this roadmap, I'm developing proficiency in:
 - **Project-Based Learning**: From theory to shipped products, emphasizing pragmatic results
 
 ## 📂 Featured Projects
-Here are the key projects from my 26-week AI transition roadmap. Each is self-contained, with code, documentation, and live demos where applicable. Click the links to explore!
+Here are the key projects from my AI transition roadmap. Each is self-contained, with code, documentation, and live demos where applicable. Click the links to explore!
 
 ### 1. Automated Directory Organizer 📁
 - **Description**: A Python script that automatically sorts files in a directory by type (e.g., images to 'Images', documents to 'Documents'). Solves the common "messy downloads folder" problem with robust error handling and CLI support.
