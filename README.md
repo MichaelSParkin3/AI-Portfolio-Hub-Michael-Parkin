@@ -4,7 +4,9 @@
 
 Welcome to my AI Portfolio Hub! I'm Michael Parkin, a front-end developer transitioning into an AI Engineer / AI-enhanced developer through a structured project-based learning roadmap. This repository serves as the central hub for my AI projects, showcasing my growing expertise in Python, data analysis, machine learning, and full-stack AI applications. Each project is a hands-on demonstration of real-world skills, built to solve practical problems and contribute to my professional portfolio.
 
-Inspired by best practices for developer portfolios in 2025, this README highlights my journey, key projects, and technical growth. Feel free to explore the linked repos, star if you find them useful, or reach out for collaborations!
+## （づ￣3￣）づ╭❤️～ Personal Note
+
+I really needed a roadmap to follow because the AI tech world is so infinitely changing and interesting. Every new tool or advancement sucks me in and I want to try out EVERYTHING. So starting this structured learning roadmap that makes sure to give me a foundational understanding is great. Without it I'd continue to jump around and tinker with every new thing every 24 hours lol. But yeah, LETS GOOOOO!
 
 ## 📝 About Me
 - **Background**: Experienced front-end developer with a passion for augmenting my skills with AI. Currently following a project-based roadmap to master applied AI, from data science fundamentals to deploying intelligent systems.
