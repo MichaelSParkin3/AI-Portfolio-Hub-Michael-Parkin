@@ -38,9 +38,10 @@ Here are the key projects from my AI transition roadmap. Each is self-contained,
 - **Key Learning**: Data wrangling, aggregation (groupby), vectorized ops
 
 ### 3. Interactive ML Concept Visualizer (In Progress) 🔍
-- **Description**: Animated Jupyter Notebook visualizing gradient descent in linear regression—builds ML math intuition through code.
-- **Tech**: NumPy, Matplotlib (animations)
-- **Key Learning**: Linear algebra, calculus in code
+- **Description**: An interactive Jupyter Notebook that visualizes linear regression concepts using Python, Scikit-learn, and Matplotlib. Includes 2D animated plots and 3D regression planes to illustrate machine learning principles. 
+- **Tech**: Scikit-Learn, Python, Numpy, Matplotlib
+- **Repo**: [Link to Repo](https://github.com/MichaelSParkin3/interactive-ml-concept-visualizer)
+- **Key Learning**: Linear regression concepts, Basic AI Training
 
 More projects **coming soon,** including Predictor Model, Portfolio API, and a full-stack RAG system! 🚧
 
